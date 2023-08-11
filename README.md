@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siluvai Santhiya Mariya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Laravel,Django**
+- 🌱 I’m currently learning **Laravel,Django,Flask**
 
 - 📫 How to reach me **assanthiyamariya@gmail.com**
 
